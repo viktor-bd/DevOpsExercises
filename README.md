@@ -2,6 +2,7 @@
 DevSucOps
 Jeg smadrer lige README.
 Hejsaaaa
+Hejsaaaa mina venna
 
 
 ## Yipeee!!!
