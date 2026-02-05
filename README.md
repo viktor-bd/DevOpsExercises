@@ -1,2 +1,3 @@
 # DevOpsExercises
-DevSecOps
+DevSucOps
+Jeg smadrer lige README.
