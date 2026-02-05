@@ -1,1 +1,1 @@
-printf 'print("Hello")\n' > app.py
+print("Hello")
