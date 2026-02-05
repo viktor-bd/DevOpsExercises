@@ -1,3 +1,7 @@
 Hejsaaaa
 
-ny ændring
+ny ï¿½ndring
+Hejsaaaa mina venna
+
+
+## Yipeee!!!
