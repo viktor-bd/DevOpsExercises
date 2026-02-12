@@ -1,6 +1,6 @@
 Hejsaaaa
 
-ny �ndring
+gammel ændring
 # DevOpsExercises
 DevSucOps
 Jeg smadrer lige README.
