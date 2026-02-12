@@ -4,6 +4,9 @@ on:
         branches: [master]
     pull_request:
         branches: [master]
+permissions:
+  contents: read
+  security-events: write
 jobs:
     analyze:
         name: Analyze
