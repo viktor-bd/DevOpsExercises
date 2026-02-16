@@ -22,5 +22,19 @@
             {
             }
         }
+        public class BrokenClass2
+        {
+            private void MyMethod()
+            {
+            }
+        }
+
+        public class FormatBreak
+        {
+            public void Test()
+            {
+                Console.WriteLine("Hi");
+            }
+        }
     }
 }
