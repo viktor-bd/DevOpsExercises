@@ -42,3 +42,9 @@ jobs:
 
       - name: Run tests
         run: dotnet test testsForDevOps/testsForDevOps.csproj --no-build --configuration Release
+            
+      - name: Lint Code (Analyzers)
+        run: dotnet build --configuration Release -warnaserror
+
+      - name: Check Code Formatting
+        run: dotnet format --verify-no-changes
