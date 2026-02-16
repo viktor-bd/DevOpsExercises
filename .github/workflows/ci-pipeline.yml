@@ -35,10 +35,10 @@ jobs:
           dotnet-version: '8.0.x'
       
       - name: Restore
-        run: dotnet restore testsForDevOps.sln
+        run: dotnet restore testsForDevOps/testsForDevOps.csproj
 
       - name: Build
-        run: dotnet build testsForDevOps.sln --no-restore --configuration Release
+        run: dotnet build testsForDevOps/testsForDevOps.csproj --no-restore --configuration Release
 
       - name: Run tests
-        run: dotnet test testsForDevOps.sln --no-build --configuration Release
+        run: dotnet test testsForDevOps/testsForDevOps.csproj --no-build --configuration Release
