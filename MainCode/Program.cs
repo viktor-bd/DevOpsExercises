@@ -16,10 +16,11 @@
             return c;
         }
 
-        public class TestClass{
-        public void MyMethod(){
-        Console.WriteLine("Hello");
-        }
+        class BrokenClass
+        {
+            void MyMethod()
+            {
+            }
         }
     }
 }
