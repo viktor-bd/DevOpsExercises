@@ -15,5 +15,11 @@
             var c = a + b;
             return c;
         }
+
+        public class TestClass{
+        public void MyMethod(){
+                Console.WriteLine("Hello");
+        }
+        }
     }
 }
