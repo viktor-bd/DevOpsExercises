@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace testsForDevOps
 {
-    class BrokenClass
-    {
-        void MyMethod()
-        {
-        }
-    }
-    public class BrokenClass2
-    {
-        private void MyMethod()
-        {
-        }
-    }
+    //class BrokenClass
+    //{
+    //    void MyMethod()
+    //    {
+    //    }
+    //}
+    //public class BrokenClass2
+    //{
+    //    private void MyMethod()
+    //    {
+    //    }
+    //}
 
-    public class FormatBreak
-    {
-        public void Test()
-        {
-            Console.WriteLine("Hi");
-        }
-    }
+    //public class FormatBreak
+    //{
+    //    public void Test()
+    //    {
+    //        Console.WriteLine("Hi");
+    //    }
+    //}
 }
